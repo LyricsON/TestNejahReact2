@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.Done{
+  color: red;
+  text-decoration: line-through;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
